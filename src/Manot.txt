@@ -1,0 +1,5 @@
+Falafel 40 10
+Pasta 22 30
+Steak 31 25
+Cake 14 10
+Fish 10 20
